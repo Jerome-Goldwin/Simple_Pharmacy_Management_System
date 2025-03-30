@@ -32,6 +32,10 @@ Database: SQLite3
 
 ✅ Easy-to-use UI with minimal learning curve
 
+## Installation & Usage
+- **Windows:** Just download and run `spms.exe`. No installation required!  
+- **Linux/Mac:** Run the Python source code using `python import.py` after installing dependencies.
+
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
 © 2024 Jerome Goldwin M.
