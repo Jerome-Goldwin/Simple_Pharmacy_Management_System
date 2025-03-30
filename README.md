@@ -5,12 +5,19 @@ This program is designed to store medicine details, sales records, and customer 
 
 ## 🚀 Features
 ✔️ Simple and user-friendly interface
+
 ✔️ Secure database storage with SQLite3
+
 ✔️ Medicine expiry alerts to prevent selling expired drugs
+
 ✔️ Password protection for data security
+
 ✔️ Fast and lightweight performance
+
 ✔️ Optimized for Windows
+
 ✔️ Advanced search support for quick lookups
+
 ✔️ Abstract view for better data representation
 
 ## 💻 Technologies Used
