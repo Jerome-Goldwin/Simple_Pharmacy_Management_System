@@ -27,5 +27,7 @@ Database: SQLite3
 
 ## 🌟 Advantages
 ✅ Compatible with most operating systems
+
 ✅ Fully open-source
+
 ✅ Easy-to-use UI with minimal learning curve
