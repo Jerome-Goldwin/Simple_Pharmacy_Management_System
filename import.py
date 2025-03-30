@@ -1,6 +1,10 @@
+""" Author  : Jerome Goldwin M.
+    Date    : May 25, 2023
+    Program : Simple Pharmacy Management System """
+
 from tkinter import *
 from tkinter import messagebox
-from tkinter import ttk
+from tkinter import tt
 
 def check_password(event=None):
 	password = entry_password.get()
