@@ -31,3 +31,8 @@ Database: SQLite3
 ✅ Fully open-source
 
 ✅ Easy-to-use UI with minimal learning curve
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
+© 2024 Jerome Goldwin M.
+
